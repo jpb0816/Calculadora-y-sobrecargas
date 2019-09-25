@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga 1", "Sobrecarga 1\Sobrecarga 1.csproj", "{FE49A4D4-153E-4A3B-92C9-E35C8CC36ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE49A4D4-153E-4A3B-92C9-E35C8CC36ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE49A4D4-153E-4A3B-92C9-E35C8CC36ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE49A4D4-153E-4A3B-92C9-E35C8CC36ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE49A4D4-153E-4A3B-92C9-E35C8CC36ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7037A4A4-3F18-4192-BEF8-23CD51FAC31B}
+	EndGlobalSection
+EndGlobal
